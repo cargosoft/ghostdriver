@@ -56,7 +56,7 @@ ext.projectArtefactDir      = "jars/"
 ext.projectMainClass        = "org.openqa.selenium.phantomjs.PhantomJSDriver"
 ext.projectCreator          = "Ivan De Marino (https://github.com/detro)"
 
-ext.seleniumVersion         = "2.48.2"
+ext.seleniumVersion         = "2.52.0"
 
 dependencies {
     ["selenium-java", "selenium-remote-driver"].each {
